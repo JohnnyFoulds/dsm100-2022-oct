@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topics 9&10: Game Player",
+  "title": "Lecture: Weekly outro",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96473&forceview=1",
+  "transcript": "[music]Excellent. You've made it to the end of week 3.We've been learning all about the tooling that we can useto build artificial agents, which can play video games.We've been learning about these things.Firstly, we've been able to use the OpenAI gym library to implementa game simulation environment, we've been able to developa random game playing agent that can operate in an OpenAI gym,and we've also been learning all about the keras libraryand how we can use it to build neural networks.Especially, we've been learning quite a lot of detailabout how convolution works in neural networksand even gaining that insight to see what a neural network actually seesthrough its convolutional layers when we show it a game.Yes, well done. You've reached the end of week 3.Next week, I should say, we're going to be lookingat building the actual agent in code and then running itand seeing how well it plays the games."
+}

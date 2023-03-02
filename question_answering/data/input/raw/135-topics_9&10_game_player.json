@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topics 9&10: Game Player",
+  "title": "Lecture: Weekly outro",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96489&forceview=1",
+  "transcript": "[music]-Excellent, you made it to the end of week 4.You should hopefully now have a working agentrunning on your own machineand you should be able to see it attempting to play these video games.What have we been doing this week?Well, first of all, we should now be able to explainhow the DQN agent architecture and learning systemis expressed as a working program.You've seen all the code,and you've seen the connection between the codeand all of those equations and things in the paper.You should be able to give some insightinto how to evaluate the performance of a DQN agent.You should be able to deploy a pre-trained model to play video games.We provided you with various pre-trained models.Unfortunately, we couldn't show the Atari game on the video,but hopefully you've downloaded the modeland you've been able to see how well it can play breakoutafter it's been trained.Well done, you've reached the end of week 4.One more week to gowhere we're going to be looking at what happened next.What was the next best system after DQN in 2015?What have people been up to for the last few years since then?"
+}

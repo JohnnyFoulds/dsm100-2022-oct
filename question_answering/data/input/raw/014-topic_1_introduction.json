@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 1: Introduction",
+  "title": "Lecture: Topic 1 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96112&forceview=1",
+  "transcript": "[music]In topic one,we considered several approaches to defining AI.In this module,we adopted the rational agent approach to defining AI.This approach enables us to consider any agent,be it the software,be it a robot,or multi-agent system,or even the hybrid systems that includes human in the loop.We talked about what is required for defining a rational agentand how in principle such agents can be built.With talked about history of AI,andwe discussed if AI can pass the Turing test.We talked about knowledge systems,and we also spent time discussingwhat AI system capable of doing nowadays,the state-of-the-art in AI.We talked about important ethical issuesand we also discussedthat there is still not enough done about addressing these issues,and that is why it's so importantthat we all together do whatever possible to mitigate the riskand contribute to developmentof safe AI system that act in ethical and moral manner."
+}

@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 2: Problem solving agents",
+  "title": "Lecture: Topic 2 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96152&forceview=1",
+  "transcript": "[music]In this topic, we discussed how intelligent agents can find solutions and make decisions.We can see that uninformed or blind search, informed or heuristic search, and we also discuss that domain-specific knowledgecan improve decision-making substantially.The more agent knows and remembers from the past, the more intelligent behavior it can exhibit.We also talked about meta-learning or meta-reasoning.When different search strategies are analyzed and compared, in what situation, what strategy would work best.If you're interested in this topic, please check the recommended literature.Of course, there are plenty of resources available in our online library and around."
+}

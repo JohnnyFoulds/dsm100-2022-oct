@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topics 5&6: Creatures",
+  "title": "Lecture: Lesson 2 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96264&forceview=1",
+  "transcript": "[music]-Well done, you're working really hard here.You've reached the end of the first real seriousprogramming section of the creatures case study,which is week two.What we've been doing this week, we've been experimentingwith the URDF file format.We basically found out how we can use URDF files to create robotic structures.We've also been implementing online simulationswhere we can run a creature in a 3D environmentand see it moving around.We've also found out how we can build a basic evolutionary systemfor it to evolve morphology.We've got a plan there in place,and we're going to be working towards that plan in the next few weeks.Well done for reaching the end of the second weekof the creatures case study.We look forward to seeing you next weekwhere we're going to really roll our sleeves upand do some serious programming and start building our genetic encodingso we can generate our own random robot formsfrom random genomes."
+}

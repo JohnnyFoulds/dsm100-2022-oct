@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 8: Robot Scientist part 2",
+  "title": "Introduction to Topic 8",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96388&forceview=1",
+  "transcript": "[music]Welcome to topic 8. In this topic, we will continue consideringthe key study of the robot scientist AI system. We will inspect how the core components of the robot scientist were designedand how they operate.We will closely look at the hypothesis generator,how abductive and deductive reasoning can be used to formulate new hypothesis. This hypothesis is then passed to the planning agent.The task of the planning agent is to design and experimentto test those hypotheses,and to produce an experimental protocol for the automated laboratory.The experimental protocol has to be precise.Thousands of experiments are carried out by following it.The experimental results are passed to the data analysisand interpretation agent to decide if the hypothesis will confirm or not.These components comprise the very core of the robot scientist system.This system also can include many other componentslike a communication agent to facilitate collaboration between human and robot scientist,and a meta-analysis agentto detect what configurations work best and why.To help you better understand this complex system,we will consider two examples of several agents.Good luck with this topic."
+}

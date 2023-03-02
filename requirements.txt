@@ -8,5 +8,6 @@ seaborn==0.12.1
 #xgboost==1.6.2
 
 # qa
+python-dotenv==1.0.0
 openai==0.27.0
 pinecone-client==2.2.1

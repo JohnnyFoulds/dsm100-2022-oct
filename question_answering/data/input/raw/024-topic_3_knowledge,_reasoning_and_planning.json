@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 3: Knowledge, reasoning and planning",
+  "title": "Lecture: Introduction to Topic 3",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96156&forceview=1",
+  "transcript": "[music]Welcome to my favorite topic, reasoning.The ability to reason over knowledge.That is what makes intelligent systems truly intelligent.Mere knowing, remembering, and using it for making decisionsis a highly intelligent behavior. Being able to make logical inferences over such knowledgeis the next level.AI systems have superhuman abilityin making flawless logical conclusions from available data and knowledge.To unleash this power,data and knowledge have to be modeled and encodedin a machine-processable form.In this topic, we will talk about technologies for knowledge representation, have a look at knowledge representation languagesand discuss examples. We will consider different types of logics to reason over knowledge. Deduction, abduction, and induction. You will learn why abductive and inductive reasoningrequires an extra step of verification.By the way, the deductive method of Sherlock Holmes is actually abductive. We will revisit knowledge-based agentsto see how planning and scheduling can be done.Good luck with this exciting topic."
+}

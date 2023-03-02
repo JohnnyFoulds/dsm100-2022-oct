@@ -3,7 +3,7 @@
 ## Pinecone
 
 1. Navigate the to [app.pinecone.io](https://app.pinecone.io/) to sign in with your Google account.
-2. Get your API key and put it in the `pinecone_key` file.
+2. Get your API key and put it in the `.env` file as `PINECONE_KEY`.
 
 ## OpenAI
 

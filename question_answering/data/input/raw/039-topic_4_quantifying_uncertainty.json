@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 4: Quantifying uncertainty",
+  "title": "Lecture: Topic 4 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96216&forceview=1",
+  "transcript": "In this topic,we've focused on handling uncertaintyand making decisions in uncertain situations.We revisited the probability theoryand we talked about Bayesian reasoning as the most acceptable wayof representing and reasoning under uncertain knowledge.We inspected several examples of Bayesian networks,and we saw how they are implemented in Python.Bayesian networks are well-established and well-supported techniques.Bayesian networks can be implemented in many languages,not only in Python.After the completion of this topic, you should be able to designand implement your own Bayesian network."
+}

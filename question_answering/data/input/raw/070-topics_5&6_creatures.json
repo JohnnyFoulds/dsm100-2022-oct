@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topics 5&6: Creatures",
+  "title": "Lecture: Lesson 3 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96305&forceview=1",
+  "transcript": "[music]Well done, you made it through the end of all of those videos,which is one of the more intense weeks in this course,although next week's even more intense.Headline shocker there.[chuckles] Anyway.What we've been doing is we've been learningall about how to express solutions to a problemin terms of genetic encoding schemes.We've actually built a genetic encoding schemewith which we can encode the characteristics of a robotwith a three-dimensional graph structure, very similar to that that was seenin the Carl Sims project.We also implemented revolvable motor controls as well.Finally, when we come to lookat more state-of-the-art systems later in the course,you're now going to have a good insight into how those genetic encoding schemescan work and you will be able to analyze thoseand compare and contrast them more effectively.Well done.I'm reaching the end of Week 3 in the creatures case studywhere we've been building the genetic encoding scheme.In the next week, we're going to be actually implementingthe simulation for real and actually completingthe implementation of the genetic algorithm.at the end of next week.We will see our creatures evolving"
+}

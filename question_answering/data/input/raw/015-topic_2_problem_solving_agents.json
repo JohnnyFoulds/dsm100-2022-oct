@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 2: Problem solving agents",
+  "title": "Lecture: Introduction to Topic 2",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96116&forceview=1",
+  "transcript": "[music]Welcome to topic 2, Problem-Solving. In this topic, we will look at how artificial agentscan find solutions and make decisions in various,sometimes complex environments, like humans can make decisions even if our environment is not completely known to us, or if the situation can change suddenly. We are still capable of making acceptable solutions.The state-of-the-art AI technologies enable artificial agents be its software or robotic agentsto find solutions and act rationallyin partially observable or unobservable,stochastic and dynamic environments.The branch of AI that is dealing with such techniquesis called problem-solving.I have to admit that, the search algorithmsthat we will be considering in this topic,may not look like particularly cool AI techniques.However, they're used for solving really intelligent tasks,and considering themis important for understanding how AI systems work.One of popular application area of problem-solvingis adversarial search or games.AI systems beaten best human masters in chess and Gocaptured everyone's attention."
+}

@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 4: Quantifying uncertainty",
+  "title": "Lecture: Introduction to Topic 4",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96192&forceview=1",
+  "transcript": "Welcome to Topic 4, uncertainties.Intelligent agents may need to act in uncertain situations.They should be able to make decisions under uncertainty.In this topic,we will discuss what sources of uncertainty can be,and alsohow to quantify and represent uncertainties.In particular,we will be talking aboutprobability theory,probabilistic reasoning,and Bayesian reasoning.We will inspect concrete examples of Bayesian networks,and we also will seehow they can be implemented in [?]We also will look at various techniques usedand decision support systems,physiologic,qualitative reasoning,and case-based reasoning.I wish you very best of luck with this topic."
+}

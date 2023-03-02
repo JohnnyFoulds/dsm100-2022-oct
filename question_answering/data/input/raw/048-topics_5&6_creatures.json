@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topics 5&6: Creatures",
+  "title": "Lecture: Introduction to Lesson 2",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96240&forceview=1",
+  "transcript": "[music]-Welcome to the second week of the creatures case study.This week we're going to be achieving the following learning objectives.First of all,we're going to be learning all about the URDF file format,which is originally from the robot operating system projectbut it's actually more widely used in a variety of robot simulationenvironments now including pybullet, which is what we're going to be using,but also gazebo is another example.Secondly, we're going to be learning about creating simulationsusing the pybullet environment.We're going to be learning more about offline later but certainly,we're going to be seeing how to create online simulations,real-time simulations,where we're running robots in an environment.Thirdly, we're going to be learning about how to describe the key componentsof a morphology evolving system because that's what we're going to bebuilding over the next few weeks.I've got a little slide here just to get to whet your appetite as it were.You can see here, a screenshot of the pybullet environment showinga weird kind of robot embedded in the middle of the floor,and a strange Samurai castle surrounding it.If that's intriguing, keep watchingand I'll tell you all about it in the next few videos.Yes, welcome to the second week of the creatures case study."
+}

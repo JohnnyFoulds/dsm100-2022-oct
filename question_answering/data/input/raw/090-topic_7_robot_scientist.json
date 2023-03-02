@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 7: Robot Scientist",
+  "title": "Introduction to Topic 7",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96357&forceview=1",
+  "transcript": "[music]This is topic seven.We'll focus on a case study,a case study of the robot scientist.The robot scientist is an AI systemthat is capable of scientific discovery.In this topic, we will look at the historyof this area of research, scientific discovery.We will talk about real systemmaking real scientific discoveries.We will have a closer lookat this particular project,The Robot Scientist project.We will talk about its history,the main concepts of the robots scientist,what is the architecture of the system,and what are the components.To better understandthis extremely complex system,we will consider a toy robot scientistas a multi-agent system,and we will look inside several agents.We will mainly focus in this topicon knowledge representation.We will consider a knowledge agent,agent that has knowledge modelof a particular domain.Our toy robot scientistis working on drug design.We will see how we can encodeour knowledge about drug designin a machine-processable form,such systems as a robot scientist can work with it. Good luck with this topic seven."
+}

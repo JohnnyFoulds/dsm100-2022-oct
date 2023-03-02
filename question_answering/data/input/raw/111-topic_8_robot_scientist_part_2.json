@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 8: Robot Scientist part 2",
+  "title": "Lecture: Topic 8 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96420&forceview=1",
+  "transcript": "[music]-In this topic, the concluded consideringthe case study of the robot scientist system,it is a complex system, possibly the most complex system in existence.We represented it as a multi-agent distributed systemand considered the functioning of the key agents,a hypothesis generator, an experiment plan,and an analysis of experimental results agent.All these agents require access to underpinning data and knowledge.The agents have to communicate with each otherto pass input-output information and also, they have to communicatewith human scientists to output experimental dataand report their conclusions.The robot scientists are becoming more and more sophisticated,capable of running more experiments and discovering more new knowledgein several research areas."
+}

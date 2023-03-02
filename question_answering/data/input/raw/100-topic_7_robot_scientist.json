@@ -1,0 +1,7 @@
+{
+  "course": "DSM100-2022-OCT",
+  "topic": "Topic 7: Robot Scientist",
+  "title": "Topic 7 summary",
+  "url": "https://learn.london.ac.uk/mod/page/view.php?id=96384&forceview=1",
+  "transcript": "[music]In this topic, we started considering a case study of the robot scientist,a system that can discover new knowledge.We discussed the whole history of this area of research,automated scientific discovery, and relevant legal and ethical issues.We learned how to develop a conceptual knowledge modeland how then to encode itin machine-processable format in RDF,resource description framework.Then, we learned how such RDF modelscan be parsed in person.In the next topic, we will continue considering this case study,and we will talk about other agents like hypothesis generationand planning agent."
+}
